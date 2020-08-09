@@ -28,7 +28,6 @@ fetch(
         </button>
       </h2>
     </div>
-
     <div
       id="collapse${idx}"
       class="collapse"
